@@ -1,2 +1,2 @@
-# Iframe-API-block
-锁死 WebRTC 与 WebTransport 原型链，防止直播网站薅上行流量
+# P2P CDN Blocker
+锁死 WebRTC / WebTransport / Worker / Blob Worker / ServiceWorker，尽量阻断直播站点 P2P 上行
