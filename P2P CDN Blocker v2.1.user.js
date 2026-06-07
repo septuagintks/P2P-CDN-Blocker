@@ -2,7 +2,7 @@
 // @name         Iframe & Worker P2P CDN blocker
 // @namespace    http://tampermonkey.net/
 // @version      2.1
-// @description  锁死 WebRTC / WebTransport / Worker / Blob Worker / ServiceWorker，尽量阻断直播站点 P2P 上行
+// @description  锁死 WebRTC / WebTransport / Worker / ServiceWorker，尽量阻断直播站点 P2P 上行
 // @author       Septuagint[URL:https://Candy-spt.com]
 // @match        *://*.bilibili.com/*
 // @match        *://*.huya.com/*
